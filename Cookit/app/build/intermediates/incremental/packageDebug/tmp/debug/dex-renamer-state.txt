@@ -1,0 +1,4 @@
+#Sat Sep 12 15:58:46 BDT 2020
+base.0=D\:\\BRAC-TSR\\Fall-19\\Cookit\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
